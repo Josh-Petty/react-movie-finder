@@ -1,0 +1,1 @@
+ReactDOM.render(React.createElement(MovieFinder, null), document.getElementById('root'));
